@@ -31,7 +31,7 @@
 <img align="left" alt="CSS" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 <img align="left" alt="Bootstrap" width="34px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-<img align="left" alt="Next" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="Next" width="26px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" />
 
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
